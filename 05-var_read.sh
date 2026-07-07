@@ -10,3 +10,7 @@ echo "Please enter your password::"
 
 read -s PASSWORD
 echo "Password entered is: $PASSWORD"
+
+echo "$R my name is:: $N"
+read -s myname
+echo "My name is: $G myname $N" 
