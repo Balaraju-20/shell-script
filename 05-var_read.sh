@@ -11,6 +11,4 @@ echo "Please enter your password::"
 read -s PASSWORD
 echo "Password entered is: $PASSWORD"
 
-echo "$R my name is:: $N"
-read -s my name
-echo "My name is: $G $my\name $N" 
+
