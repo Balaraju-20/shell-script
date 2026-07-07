@@ -12,5 +12,5 @@ read -s PASSWORD
 echo "Password entered is: $PASSWORD"
 
 echo "$R my name is:: $N"
-read -s myname
-echo "My name is: $G myname $N" 
+read -s my name
+echo "My name is: $G $my\name $N" 
