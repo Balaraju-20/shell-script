@@ -8,3 +8,11 @@ echo "Second fruit is: ${FRUITS[1]}"
 echo "Third fruit is: ${FRUITS[2]}"
 
 echo "All Fruits : ${FRUITS[@]}"
+
+CATA=("SHIRT" "TROUSER" "t-SHIRT")
+
+echo "Top wear is: ${CATA[0]}"
+echo "Bottom wear is: ${CATA[1]}"
+echo "Casual wear is: ${CATA[2]}"
+
+echo "CATA wear is: ${CATA[@]}"
