@@ -1,10 +1,12 @@
 #!/bin/bash
 
-for i in {0..10} #0-1000
+# gives vertical loop output
+for i in {0..10} #0-10
 do
 	echo $i
 done
 
+# gives horizontal loop output
 for i in {0..10}
 do 
 	echo -n "$i "
